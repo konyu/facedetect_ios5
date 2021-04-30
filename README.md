@@ -5,6 +5,8 @@ facedetect_ios5
 
 明治大学宮本研究室　ABPrpo2012　出展作品
 
+![10170801_572323926209073_5011429774856949332_n](https://user-images.githubusercontent.com/1217706/116652476-36045280-a9c0-11eb-8e91-00816bfff54f.jpeg)
+
 
 The MIT License (MIT)
 
